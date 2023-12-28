@@ -1,4 +1,4 @@
-# SpringCarrotMarket
+## 🥕SpringCarrotMarket
 
 🔥 **선정 이유**
 
@@ -36,3 +36,8 @@ https://docs.google.com/document/d/1ZF61fqBp5Ry2Iqh6-tBLwkOx7QJdKIeHkpDFuSPHvUU/
 **참고 자료**
 
 https://docs.google.com/presentation/d/1f173qljCkyo0zuq0mUj2rPu3Va-Dbl88Doek_vljnAg/edit?usp=sharing
+
+## 🚀 정보
+- multicampus<br>
+  - 웹 서비스 개발자 취업캠프(Java)
+- multicampus 🐶 Mini Project
